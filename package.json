@@ -1,0 +1,10 @@
+{
+    "name": "json-server",
+    "version": "1.0.0",
+    "description": "Nucamp Json-Server",
+    "scripts": {
+      "start": "json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000"
+    },
+    "author": "",
+    "license": "ISC"
+  }
