@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JSON_Server_React_Nucampsite/static/css/main.314cf82a.chunk.css",
+    "main.js": "/JSON_Server_React_Nucampsite/static/js/main.b86c47f2.chunk.js",
+    "main.js.map": "/JSON_Server_React_Nucampsite/static/js/main.b86c47f2.chunk.js.map",
+    "runtime-main.js": "/JSON_Server_React_Nucampsite/static/js/runtime-main.6f39b4aa.js",
+    "runtime-main.js.map": "/JSON_Server_React_Nucampsite/static/js/runtime-main.6f39b4aa.js.map",
+    "static/css/2.bf3cd2f3.chunk.css": "/JSON_Server_React_Nucampsite/static/css/2.bf3cd2f3.chunk.css",
+    "static/js/2.6921c571.chunk.js": "/JSON_Server_React_Nucampsite/static/js/2.6921c571.chunk.js",
+    "static/js/2.6921c571.chunk.js.map": "/JSON_Server_React_Nucampsite/static/js/2.6921c571.chunk.js.map",
+    "static/js/3.92470ba2.chunk.js": "/JSON_Server_React_Nucampsite/static/js/3.92470ba2.chunk.js",
+    "static/js/3.92470ba2.chunk.js.map": "/JSON_Server_React_Nucampsite/static/js/3.92470ba2.chunk.js.map",
+    "index.html": "/JSON_Server_React_Nucampsite/index.html",
+    "static/css/2.bf3cd2f3.chunk.css.map": "/JSON_Server_React_Nucampsite/static/css/2.bf3cd2f3.chunk.css.map",
+    "static/css/main.314cf82a.chunk.css.map": "/JSON_Server_React_Nucampsite/static/css/main.314cf82a.chunk.css.map",
+    "static/js/2.6921c571.chunk.js.LICENSE.txt": "/JSON_Server_React_Nucampsite/static/js/2.6921c571.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/JSON_Server_React_Nucampsite/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/index.css": "/JSON_Server_React_Nucampsite/static/media/open-sans-latin-800italic.b5bc2661.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f39b4aa.js",
+    "static/css/2.bf3cd2f3.chunk.css",
+    "static/js/2.6921c571.chunk.js",
+    "static/css/main.314cf82a.chunk.css",
+    "static/js/main.b86c47f2.chunk.js"
+  ]
+}
