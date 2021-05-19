@@ -35,7 +35,7 @@ The form then echos back all the information that was input preparing for
 If running Locally from github:
 
 START JSON-SERVER:
-Start within the terminal with "npm start".
+Start the application within the terminal with "npm start".
 Then within your broswer travel to localhost:3001 if it does not
     automatically take you there.
 To end the server simply type "ctrl+c" into the terminal.
