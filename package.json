@@ -1,11 +1,16 @@
 {
-    "name": "JSON_Server_React_Nucampsite",
-    "version": "1.0.0",
-    "description": "Nucamp Json-Server",
-    "homepage": "https://wacwestley.github.io/JSON_Server_React_Nucampsite/",
-    "scripts": {
-      "start": "json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000"
-    },
-    "author": "Westley Cervantes",
-    "license": "ISC"
+  "name": "JSON_Server_React_Nucampsite",
+  "version": "1.0.0",
+  "description": "Nucamp Json-Server",
+  "homepage": "https://wacwestley.github.io/JSON_Server_React_Nucampsite/",
+  "scripts": {
+    "start": "json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "author": "Westley Cervantes",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
+}
