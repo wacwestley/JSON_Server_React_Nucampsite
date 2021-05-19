@@ -1,10 +1,11 @@
 {
-    "name": "json-server",
+    "name": "JSON_Server_React_Nucampsite",
     "version": "1.0.0",
     "description": "Nucamp Json-Server",
+    "homepage": "https://wacwestley.github.io/JSON_Server_React_Nucampsite/",
     "scripts": {
       "start": "json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000"
     },
-    "author": "",
+    "author": "Westley Cervantes",
     "license": "ISC"
   }
